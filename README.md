@@ -1,1 +1,3 @@
-# robotics_portfolio
+# Jaedin's Robotics Portfolio
+
+Description of the bot
