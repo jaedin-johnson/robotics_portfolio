@@ -3,4 +3,4 @@
 Description of the bot:
 
 
-![Description of picture]()
+![First design of the robot]()
