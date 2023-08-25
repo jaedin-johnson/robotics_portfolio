@@ -3,4 +3,4 @@
 Description of the bot:
 
 
-![First design of the robot]()
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/142936402/263374798-634b4432-265c-4e1c-9d37-08dae88b453b.jpeg)
