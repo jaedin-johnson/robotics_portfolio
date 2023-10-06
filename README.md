@@ -1,4 +1,4 @@
-# Jaedin's Robotics Portfolio
+# Jaedin Johnson's Robotics Portfolio
 
 ### Description of the bot: 
 Our robot, Burnout, will have a simple frame, with one wheel attatched to the back and two to the front. With our straightforward design, we hope to create a robot that prioritizes speed without sacrificing turning ability and maneuverability through and around obstacles. It will include gears that will hopefully allow us to control the direction of the chassis.
@@ -8,6 +8,9 @@ This model is a speedy and straightforward design. We plan on using the speed of
 <!--Inspiration: https://www.vexforum.com/t/vex-racing-competition/78012-->
 
 ### Photos: 
-![A rough draft sketch of our robot design named Burnout](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/roughphoto.jpeg?raw=true)
-![An early picture of the robot's chassis build](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/chassisphoto.jpg?raw=true)
-![A robot design used for inspiration](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/inspirationphoto.jpeg?raw=true)
+A rough draft sketch of our robot design named Burnout:
+![Rough draft](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/roughphoto.jpeg?raw=true)
+An early picture of the robot's chassis build:
+![Chassis build](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/chassisphoto.jpg?raw=true)
+A robot design used for inspiration:
+![Design inspiration](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/inspirationphoto.jpeg?raw=true)
