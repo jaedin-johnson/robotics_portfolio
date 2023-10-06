@@ -9,5 +9,5 @@ This model is a speedy and straightforward design. We plan on using the speed of
 
 
 ![A rough draft sketch of our robot design named Burnout](https://github-production-user-asset-6210df.s3.amazonaws.com/142936402/263374798-634b4432-265c-4e1c-9d37-08dae88b453b.jpeg)
-![An early picture of the robot's chassis build](https://mail.google.com/mail/u/0?ui=2&ik=7ee93a24ab&attid=0.1.1&permmsgid=msg-f:1778761335277441664&th=18af6e0299695280&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_2posSkRJCqhOsL-gTxdqYK9DVG5P3yUoTzLFJU_Wb7kT9SkgX3S9kW4_KFZ2IYJ4bkjrn-EzufZhREdxEJrwCw9ntHnLAUJOztjXJUMVguA8gVTCVL5wZs-g&disp=emb)
+![An early picture of the robot's chassis build]()
 ![A robot design used for inspiration](https://github.com/pieroproietti/penguins-blog/assets/95327709/bb2523fe-af71-4c2b-a690-8e45b40ae86e)
