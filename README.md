@@ -19,3 +19,7 @@ This model is a speedy and straightforward design. We plan on using the speed of
 - A robot design used for inspiration:
 
 ![Design inspiration](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/inspirationphoto.jpeg?raw=true)
+
+- A drawn plan to add a scoop/shovel mechanism to push and carry small items.
+
+![Drawn Lift/Push System]()
