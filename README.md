@@ -1,4 +1,4 @@
-# Jaedin Johnson's Robotics Portfolio
+# Jaedin Johnson's Robotics Portfolio (2023-24)
 
 ### Description of the bot: 
 Our robot, Burnout, will have a simple frame, with one wheel attatched to the back and two to the front. With our straightforward design, we hope to create a robot that prioritizes speed without sacrificing turning ability and maneuverability through and around obstacles. It will include gears that will hopefully allow us to control the direction of the chassis.
