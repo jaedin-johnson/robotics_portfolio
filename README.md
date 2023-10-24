@@ -20,6 +20,9 @@ This model is a speedy and straightforward design. We plan on using the speed of
 
 ![Design inspiration](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/inspirationphoto.jpeg?raw=true)
 
-- A drawn plan to add a scoop/shovel mechanism to push and carry small items.
+- A drawn plan to add a scoop/shovel mechanism to push and carry small items:
 
-![Drawn Lift/Push System]()
+![Drawn Lift/Push System](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/liftpushsystem.jpg?raw=true)
+
+### Tank drive to move the robot:
+tank_drive(y1, y2, left_motor, right_motor)
