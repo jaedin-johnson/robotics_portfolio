@@ -24,7 +24,7 @@ tank_drive(y1, y2, left_motor, right_motor)
 
 - A recent picture of Burnout, the robot (Oct. 24, 2023):
 
-![Updated Picture October]()
+![Updated Picture]()
 
 - A drawn plan to add a scoop/shovel mechanism to push and carry small items (Oct. 24, 2023):
 
