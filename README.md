@@ -11,30 +11,23 @@ tank_drive(y1, y2, left_motor, right_motor)
 
 ### Photos: 
 - A robot design used for inspiration (Aug. 24, 2023):
-
-![Design Inspiration](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/inspirationphoto.jpeg?raw=true)
+<img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/inspirationphoto.jpeg?raw=true" alt="Design Inspiration" width="300">
 
 - A rough draft sketch of our robot design named Burnout (Aug. 24, 2023):
-
-![First Rough Draft](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/roughphoto.jpeg?raw=true)
+<img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/roughphoto.jpeg?raw=true" alt="First Rought Draft" width="300">
 
 - An early picture of the robot's chassis build (Sept. 12, 2023):
-
-![Chassis Build](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/chassisphoto.jpg?raw=true)
+<img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/chassisphoto.jpg?raw=true" alt="Chassis Build" width="300">
 
 - A recent picture of Burnout, the robot (Oct. 24, 2023):
-
-![Updated Picture]()
+<img src="" alt="Updated Picture, October 24th" width="300">
 
 - A drawn plan to add a scoop/shovel mechanism to push and carry small items (Oct. 24, 2023):
-
-![Drawn Lift/Push System](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/liftpushsystem.jpg?raw=true)
+<img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/liftpushsystem.jpg?raw=true" alt="Lift/Push System Plan" width="300">
 
 - An updated picture of Burnout, the robot, with the scoop/shovel mechanism added (Oct. , 2023):
+<img src="" alt="Lift/Push System Picture" width="300">
 
-![Lift/Push System Picture]()
-
-<!-- - An updated sketched and labeled model of Burnout, the robot (Oct. , 2023):
-
-![October Sketched Update]() -->
+- An updated sketched and labeled model (Oct. , 2023):
+<img src="" alt="Sketched, Model October " width="300">
 
