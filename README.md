@@ -22,13 +22,17 @@ tank_drive(y1, y2, left_motor, right_motor)
 
 ![Chassis Build](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/chassisphoto.jpg?raw=true)
 
+- A recent picture of Burnout, the robot (Oct. 24, 2023):
+
+![Updated Picture October]()
+
 - A drawn plan to add a scoop/shovel mechanism to push and carry small items (Oct. 24, 2023):
 
 ![Drawn Lift/Push System](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/liftpushsystem.jpg?raw=true)
 
-- An updated picture of Burnout, the robot (Oct. 24, 2023):
+- An updated picture of Burnout, the robot, with the scoop/shovel mechanism added (Oct. , 2023):
 
-![October Update]()
+![Lift/Push System Picture]()
 
 <!-- - An updated sketched and labeled model of Burnout, the robot (Oct. , 2023):
 
