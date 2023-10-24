@@ -7,6 +7,9 @@ This model is a speedy and straightforward design. We plan on using the speed of
 
 <!--Inspiration: https://www.vexforum.com/t/vex-racing-competition/78012-->
 
+### Tank drive to move the robot:
+tank_drive(y1, y2, left_motor, right_motor)
+
 ### Photos: 
 - A rough draft sketch of our robot design named Burnout:
 
@@ -24,5 +27,3 @@ This model is a speedy and straightforward design. We plan on using the speed of
 
 ![Drawn Lift/Push System](https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/liftpushsystem.jpg?raw=true)
 
-### Tank drive to move the robot:
-tank_drive(y1, y2, left_motor, right_motor)
