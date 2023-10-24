@@ -30,6 +30,7 @@ tank_drive(y1, y2, left_motor, right_motor)
 
 ![October Update]()
 
-- An updated sketched and labeled model of Burnout, the robot (Oct. , 2023):
+<!-- - An updated sketched and labeled model of Burnout, the robot (Oct. , 2023):
 
-![October Sketched Update]()
+![October Sketched Update]() -->
+
