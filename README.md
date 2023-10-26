@@ -30,5 +30,5 @@ tank_drive(y1, y2, left_motor, right_motor)
 <br><img src="" alt="Lift/Push System Picture" width="300">
 
 - An updated sketched and labeled model (Oct. , 2023):
-<br><img src="" alt="Sketched, Model October " width="300">
+<br><img src="" alt="Sketched Model October " width="300">
 
