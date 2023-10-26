@@ -1,9 +1,8 @@
 # Jaedin Johnson's Robotics Portfolio (2023-24)
 
 ### Description of the bot: 
-Our robot, Burnout, will have a simple frame, with one wheel attatched to the back and two to the front. With our straightforward design, we hope to create a robot that prioritizes speed without sacrificing turning ability and maneuverability through and around obstacles. It will include gears that will hopefully allow us to control the direction of the chassis.
+Our robot, Burnout, will have a simple chassis, with one wheel attatched to the front and two in back. It will inlcude four motors in each corner of the frame. A scoop will be secured to the front with the goal of moving and carrying small objects. With our straightforward design, we hope to create a robot that prioritizes speed without sacrificing maneuverability or turning radius through and around obstacles.
 
-This model is a speedy and straightforward design. We plan on using the speed of the design to help us maneuver our own way through obstacles, with gears that allow us to control the direction of the chassis. Some Specific Objectives would be to find a way to create a speedy race car while being able to turn the vehicle and letting the wheels adjust themselves by going down or up.
 <!--Inspiration: https://www.vexforum.com/t/vex-racing-competition/78012-->
 
 ### Tank drive to move the robot:
