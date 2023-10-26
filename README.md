@@ -23,7 +23,7 @@ tank_drive(y1, y2, left_motor, right_motor)
 - Recent pictures taken of the robot (Oct. 24, 2023):
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/assets/89050087/3feddf52-a267-4e34-9ab1-f90780d9401d" alt="Updated Picture, October 24th" width="300">
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/updateoct.jpg?raw=true" alt="Updated Overhead, October 24th" width="300">
-<br><img src="" alt="Updated Side, October 24th" width="300">
+<br><img src="https://github.com/jaedin-johnson/robotics_portfolio/assets/89050087/c130275d-8045-4e87-b9d6-b8c57713666d" alt="Updated Side, October 24th" width="300">
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/assets/89050087/85de87e9-3bf0-40ff-a365-e68f54dad160" alt="Updated Front, October 24th" width="300">
 
 - A drawn plan to add a scoop/shovel mechanism to push and carry small items (Oct. 24, 2023):
