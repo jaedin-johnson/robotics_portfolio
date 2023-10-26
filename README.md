@@ -24,7 +24,7 @@ tank_drive(y1, y2, left_motor, right_motor)
 <br><img src="" alt="Updated Picture, October 24th" width="300">
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/updateoct.jpg?raw=true" alt="Updated Overhead, October 24th" width="300">
 <br><img src="" alt="Updated Side, October 24th" width="300">
-<br><img src="" alt="Updated Front, October 24th" width="300">
+<br><img src="https://github.com/jaedin-johnson/robotics_portfolio/assets/89050087/85de87e9-3bf0-40ff-a365-e68f54dad160" alt="Updated Front, October 24th" width="300">
 
 - A drawn plan to add a scoop/shovel mechanism to push and carry small items (Oct. 24, 2023):
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/liftpushsystem.jpg?raw=true" alt="Lift/Push System Plan" width="300">
