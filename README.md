@@ -26,7 +26,7 @@ tank_drive(y1, y2, left_motor, right_motor)
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/chassisphoto.jpg?raw=true" alt="Chassis Build" width="300">
 
 - An updated, labeled sketch (Oct. 20, 2023):
-<br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/roughphoto.jpeg?raw=true" alt="First Rought Draft" width="300">
+<br><img src="" alt="Updated Sketch Oct. 20th" width="300">
 
 - Recent pictures taken of the robot (Oct. 22, 2023):
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/assets/89050087/3feddf52-a267-4e34-9ab1-f90780d9401d" alt="Updated Picture, October 24th" width="300">
@@ -45,5 +45,5 @@ tank_drive(y1, y2, left_motor, right_motor)
 <br><img src="" alt="Lift/Push Front" width="300">
 
 - An updated sketched and labeled model (Oct. , 2023):
-<br><img src="" alt="Sketched Model October " width="300">
+<br><img src="" alt="Updated Sketch October " width="300">
 
