@@ -14,8 +14,12 @@ tank_drive(y1, y2, left_motor, right_motor)
 - A robot design used for inspiration (Aug. 24, 2023):
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/inspirationphoto.jpeg?raw=true" alt="Design Inspiration" width="300">
 
-- A rough draft sketch of our robot design named Burnout (Aug. 24, 2023):
+- A rough draft sketches of our robot design named Burnout (Aug. 24, 2023):
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/roughphoto.jpeg?raw=true" alt="First Rought Draft" width="300">
+
+- Two more rough draft sketches of the robot (Aug. 25, 2023):
+<br><img src="" alt="Second Rought Draft Part 1" width="300">
+<br><img src="" alt="Second Rought Draft Part 2" width="300">
 
 - An early picture of the robot's chassis build (Sept. 19, 2023):
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/chassisphoto.jpg?raw=true" alt="Chassis Build" width="300">
