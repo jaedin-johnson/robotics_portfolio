@@ -19,14 +19,15 @@ tank_drive(y1, y2, left_motor, right_motor)
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/roughphoto.jpeg?raw=true" alt="First Rought Draft" width="300">
 
 - Two more rough drafts of the robot (Aug. 25, 2023):
-<br><img src="" alt="Second Rought Draft Part 1" width="300">
-<br><img src="" alt="Second Rought Draft Part 2" width="300">
+<br><img src="" alt="Second Rought Draft Overvieww" width="300">
+<br><img src="" alt="Second Rought Draft Side" width="300">
 
 - An early picture of the robot's chassis build (Sept. 19, 2023):
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/chassisphoto.jpg?raw=true" alt="Chassis Build" width="300">
 
-- An updated, labeled sketch (Oct. 20, 2023):
-<br><img src="" alt="Updated Sketch Oct. 20th" width="300">
+- Updated, labeled sketches (Oct. 20, 2023):
+<br><img src="" alt="Updated Overview Oct. 20th" width="300">
+<br><img src="" alt="Updated Side Oct. 20th" width="300">
 
 - Recent pictures taken of the robot (Oct. 22, 2023):
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/assets/89050087/3feddf52-a267-4e34-9ab1-f90780d9401d" alt="Updated Picture, October 24th" width="300">
@@ -35,7 +36,8 @@ tank_drive(y1, y2, left_motor, right_motor)
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/assets/89050087/85de87e9-3bf0-40ff-a365-e68f54dad160" alt="Updated Front, October 24th" width="300">
 
 - Two drawn plans to add a scoop/shovel mechanism to push and carry small items (Oct. 24, 2023):
-<br><img src="" alt="Lift/Push System Plan 1" width="300">
+<br><img src="" alt="Lift/Push System Plan 1 Overhead" width="300">
+<br><img src="" alt="Lift/Push System Plan 1 Side" width="300">
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/liftpushsystem.jpg?raw=true" alt="Lift/Push System Plan 2" width="300">
 
 - Updated pictures of the robot with the scoop/shovel mechanism added (Oct. , 2023):
