@@ -2,7 +2,7 @@
 Role: Notebook
 
 ### Description of the bot: 
-Our robot, Burnout, will have a simple chassis, with one wheel attatched to the front and two in back. It will inlcude four motors in each corner of the frame. A scoop will be secured to the front with the goal of moving and carrying small objects. With our straightforward design, we hope to create a robot that prioritizes speed without sacrificing maneuverability or turning radius through and around obstacles.
+My group's robot, Burnout, will have a simple chassis, with one wheel attatched to the front and two in back. It will inlcude four motors in each corner of the frame. A scoop will be secured to the front with the goal of moving and carrying small objects. With our straightforward design, we hope to create a robot that prioritizes speed without sacrificing maneuverability or turning radius through and around obstacles.
 <!--Inspiration: https://www.vexforum.com/t/vex-racing-competition/78012-->
 
 ### Tank drive to move the robot:
