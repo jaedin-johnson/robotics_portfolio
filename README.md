@@ -39,7 +39,7 @@ tank_drive(y1, y2, left_motor, right_motor)
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/liftpushsystem.jpg?raw=true" alt="Lift/Push System Plan 2" width="300">
 
 - An image of the robot's current code (Nov. 02, 2023):
-<br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/robotcode.jpg?raw=true" alt="The Code" width="300">
+<br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/robotcode.jpeg?raw=true" alt="The Code" width="300">
 
 - Updated pictures of the robot with the scoop/shovel mechanism added (. , 2023):
 <br><img src="" alt="Lift/Push System Picture" width="300">
