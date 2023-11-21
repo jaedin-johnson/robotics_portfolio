@@ -46,3 +46,9 @@ tank_drive(y1, y2, left_motor, right_motor)
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/competition2.JPG?raw=true" alt="Competition 2" width="300">
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/competition3.JPG?raw=true" alt="Competition 3" width="300">
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/competition4.JPG?raw=true" alt="Competition 4" width="300">
+
+- New pictures of the robot (Nov. , 2023):
+<br><img src="" alt="New Pictures, November" width="300">
+<br><img src="" alt="New Overhead, November" width="300">
+<br><img src="h" alt="New Side, November" width="300">
+<br><img src="" alt="New Front, November" width="300">
