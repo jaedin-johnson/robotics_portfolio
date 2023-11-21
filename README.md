@@ -41,23 +41,8 @@ tank_drive(y1, y2, left_motor, right_motor)
 - An image of the robot's current code (Nov. 02, 2023):
 <br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/robotcode.jpeg?raw=true" alt="The Code" width="300">
 
-- Updated pictures of the robot with the scoop/shovel mechanism added (. , 2023):
-<br><img src="" alt="Lift/Push System Picture" width="300">
-<br><img src="" alt="Lift/Push Overhead" width="300">
-<br><img src="" alt="Lift/Push Side" width="300">
-<br><img src="" alt="Lift/Push Front" width="300">
-
-- plans to add a Attachment/Sensor (. , 2023):
-<br><img src="" alt="Attachment/Sensor Sketch" width="300">
-
-- The robot's added Attachment/Sensor (. , 2023):
-<br><img src="" alt="Attachment/Sensor Added" width="300">
-
-- New pictures of the robot after the Attachment/Sensor was added (. , 2023):
-<br><img src="" alt="Attachment/Sensor Picture" width="300">
-<br><img src="" alt="Attachment/Sensor Overhead" width="300">
-<br><img src="" alt="Attachment/Sensor Side" width="300">
-<br><img src="" alt="Attachment/Sensor Front" width="300">
-
-- An updated sketched and labeled model (. , 2023):
-<br><img src="" alt="Updated Sketch November" width="300">
+- Pictures of the robot during a competition between our classmates (Nov. 21, 2023):
+<br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/competition1.jpg?raw=true" alt="Competition 1" width="300">
+<br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/competition2.JPG?raw=true" alt="Competition 2" width="300">
+<br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/competition3.JPG?raw=true" alt="Competition 3" width="300">
+<br><img src="https://github.com/jaedin-johnson/robotics_portfolio/blob/main/images/competition4.JPG?raw=true" alt="Competition 4" width="300">
