@@ -1,5 +1,6 @@
 # Jaedin Johnson's Robotics Portfolio (2023-24)
 Role: Notebook
+
 My team members: Adrien Roy, Vincnet Nguyen, Birkam Parmar, Collin Sweden, and Brooklyn Sweden
 
 ### Description of the bot: 
