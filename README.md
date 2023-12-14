@@ -1,7 +1,7 @@
 # Jaedin Johnson's Robotics Portfolio (2023-24)
-Role: Notebook
-
 My team members: Adrien Roy, Vincnet Nguyen, Birkam Parmar, Collin Sweden, and Brooklyn Sweden
+
+Role: Notebook
 
 ### Description of the bot: 
 My group's robot, Burnout, will have a simple chassis, with one wheel attatched to the front and two in back. It will inlcude four motors in each corner of the frame. A scoop will be secured to the front with the goal of moving and carrying small objects. With our straightforward design, we hope to create a robot that prioritizes speed without sacrificing maneuverability or turning radius through and around obstacles.
